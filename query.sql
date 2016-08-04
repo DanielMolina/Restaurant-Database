@@ -1,5 +1,4 @@
 -- Daniel Molina
--- daniel.mol1082@asu.edu
 
 -- Query 1: Menu Items Listed from Most Expensive to Least Expensive
 
