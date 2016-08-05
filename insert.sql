@@ -1,5 +1,3 @@
--- Daniel Molina
-
 /*
 ** ----------------------------------------------------------------------------
 ** script to insert data into the Employer table
