@@ -1,5 +1,3 @@
--- Daniel Molina
-
 -- create tables
 
 @ddl
