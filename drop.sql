@@ -1,5 +1,3 @@
--- Daniel Molina
-
 /*
 ** ----------------------------------------------------------------------------
 ** script to drop all objects in the database
