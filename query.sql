@@ -1,5 +1,3 @@
--- Daniel Molina
-
 -- Query 1: Menu Items Listed from Most Expensive to Least Expensive
 
 SELECT M.mName, M.price, M.calories, M.description, M.rating
